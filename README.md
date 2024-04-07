@@ -1,5 +1,5 @@
 <!-- ![MasterHead](https://miro.medium.com/v2/resize:fit:925/1*TPqsFkN8KRWbPgvUZCaLTA.jpeg)" -->
-![MasterHead]<img src="https://miro.medium.com/v2/resize:fit:1358/1*uoIuTHAxSGSR0QBnK7h6sg.png" width="925" height="400">
+<img src="https://miro.medium.com/v2/resize:fit:1358/1*uoIuTHAxSGSR0QBnK7h6sg.png" width="900" height="350">
 
 <h1 align="center">Hi 👋, I'm Abhijeet Rathore</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
